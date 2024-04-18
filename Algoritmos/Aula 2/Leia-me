@@ -1,0 +1,21 @@
+Aula 2 - Nesta aula foi visto muito de operadores relacionais e introduzido uma nova estrutura, a estrutura condicional "IF".
+Com ela foi realizado os algoritmos: Quiz e calculador de conta de luz.
+
+
+
+OPERADORES RELACIONAIS (C + +)
+
+>	Maior que
+<	Menor que
+>=	Maior ou igual 
+<=	Menor ou Igual
+= =	Igual a
+!=	Diferente de
+
+Estrutua Condicional C + + (se)
+
+Sintaxe: If (condição) {              | Exemplo: If (Idade >= 16) {
+O que ira acontecer		      |	Cout << “Pode votar” ;
+}				      | }
+
+
